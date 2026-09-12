@@ -1,0 +1,9 @@
+# local state / secrets — never commit
+opencode.json
+context-saver.json
+*.local.js
+*.local.json
+.env
+.env.*
+node_modules/
+*.log
